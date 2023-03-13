@@ -1,2 +1,8 @@
-# ScalableWorldOrbs
-Makes World Orbs you spawn scalable by default
+﻿# ScalableWorldOrbs
+
+A [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/). Makes World Orbs you spawn scalable by default.
+
+## Installation
+1. Install [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader).
+1. Place [ScalableWorldOrbs.dll](https://github.com/XDelta/ScalableWorldOrbs/releases/latest/download/ScalableWorldOrbs.dll) into your `nml_mods` folder. This folder should be at `C:\Program Files (x86)\Steam\steamapps\common\NeosVR\nml_mods` for a default install. You can create it if it's missing, or if you launch the game once with NeosModLoader installed it will create the folder for you.
+1. Start the game. If you want to verify that the mod is working you can check your Neos logs.
